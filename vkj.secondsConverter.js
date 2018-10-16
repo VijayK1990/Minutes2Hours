@@ -1,7 +1,7 @@
 /*
 	* FUNCTION DATE: 04-10-2018
 	* WRITTEN BY: VIJAYENDRA K
-	* PURPOSE: TO CONVERT MINUTES TO HOURS FORMAT
+	* PURPOSE: TO CONVERT SECONDS TO HOURS/MINUTES FORMAT
 */
 function GetDuration(t) {            
 	var hours = Math.floor(parseInt(t) / 60);
